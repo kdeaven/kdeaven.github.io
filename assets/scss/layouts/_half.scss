@@ -15,7 +15,7 @@
       font-weight: 300;
     }
 
-    > div {
+    >div {
       padding: 20px;
 
       @include min(md) {
@@ -49,6 +49,6 @@
     order: 1;
     background-size: cover;
     background-position: center;
-    @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
+    @include responsivebackground("cig-s.jpg", "cig-m.jpg", "cig-l.jpg");
   }
 }
