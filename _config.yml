@@ -9,10 +9,10 @@ content: I am a Ph.D. student at the University of Wisconsin-Madison. My main re
 
 # Add your social links
 social:
-  - platform: email (kdeaven@wisc.edu)
-    url: kjdeaven@wisc.edu
+  - platform: kdeaven@wisc.edu
+    url: mailto:kjdeaven@wisc.edu
   - platform: Check out my CV
-    url: https://facebook.com/luigibytes
+    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
 # General settings
