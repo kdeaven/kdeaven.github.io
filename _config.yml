@@ -5,18 +5,18 @@ title: Katie Deaven
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
-content: Test id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: I am a Ph.D. student at the University of Wisconsin-Madison.
+
+My main research interests are in philosophy of science and philosophy of biology. My dissertation focuses on the explanatory and ontological puzzles concerning evolvability, a disposition for populations to evolve in various ways. I defend a metaphysically robust account of evolvability that allows evolutionary biologists and philosophers to make counterfactual claims about how a population might have evolved differently. My other research projects also use case studies in evolutionary biology as a way of making progress in more general disputes in philosophy of science.
+
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/ltorres6
-  - platform: facebook
+  - platform: email (kdeaven@wisc.edu)
+    url: kjdeaven@wisc.edu
+  - platform: Check out my CV
     url: https://facebook.com/luigibytes
-  - platform: twitter
-    url: https://twitter.com/luigibytes
-  - platform: linkedin
-    url: https://linkedin.com/in/luigibytes/
+
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
