@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+{% include head.html %}
+
+<body class="full">
+
+    <main class="content--{{ site.other_text_position }}">
+        <div class="full__image"></div>
+
+        <div class="full__content--{{ site.other_text_position }} full__content">
+            {% include left_nav.html %}
+            {{ content }}
+        </div>
+    </main>
+
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+<div class="socialLinks">
+    <nav align="left">
+        {% for link in site.professional %}
+        <a class="socialLinks__link socialLInk__{{ link.title }}" href="{{ link.url }}">{{ link.title
+            }}</a>
+        {% endfor %}
+    </nav>
+</div>

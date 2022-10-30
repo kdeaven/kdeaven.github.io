@@ -12,9 +12,34 @@ social:
   - platform: kdeaven@wisc.edu
     url: mailto:kjdeaven@wisc.edu
   - platform: Check out my CV
-    url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+    url: /files/cv.pdf
 
+professional:
+  - title: About Me
+    url: /  
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: Public Philosophy
+    url: /mpp/
 
+research:
+    title: Research
+    overview_content: HERE IS MY OVERVIEW gdsagdfsahgdjskalhgdjskal ghfdjksal ghdjskal fghdjska lfhdjsak flhdjsa kflhdsjak fldhsaj fkgldhsaj lgfhdsja kglfdhsaj gkldfhsa gjkldfa h.
+    review_content: HERE IS MY Cfjndsaiogjfdea kl;grjeeiwak g;jrekas ;gfjdskal; gjdf
+    progress_content: GDHASgreawqog rjekagkdflshaj; tgriwaqt;gjrie agjdfisak g;fr4ejiwa ogprjewa
+
+teaching:
+    title: Teaching
+    overview_content: blah2
+    courses_content: blah2
+
+mpp:
+    title: Public Philosophy
+    the_kids_content: blah3
+    facilitator_content: blah3
+    
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
@@ -29,3 +54,5 @@ half_side: right
 
 # Full layout
 full_text_position: right # left, right or center
+
+other_text_position: center # left, right or center

@@ -1,0 +1,16 @@
+---
+layout: mpp
+title: Katie Deaven
+---
+<h1 class="pageTitle">{{ site.mpp.title }}</h1>
+<hr class="solid">
+
+{% if site.mpp.the_kids_content %}
+<h2 class="pageTitle">Philosophy for Children</h2>
+<p class="pageContent">{{ site.mpp.the_kids_content }}</p>
+{% endif %}
+
+{% if site.mpp.facilitator_content %}
+<h2 class="pageTitle">Facilitator Training</h2>
+<p class="pageContent">{{ site.mpp.facilitator_content }}</p>
+{% endif %}
