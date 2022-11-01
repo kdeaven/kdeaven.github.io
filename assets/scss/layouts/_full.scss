@@ -53,6 +53,7 @@
 
     @include min(md) {
       max-width: 80vw;
+      max-height: 90vw;
       z-index: 10;
       position: relative;
     }
