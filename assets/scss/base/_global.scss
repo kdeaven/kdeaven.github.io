@@ -17,7 +17,7 @@ body {
   line-height: 1.75;
   font-size: 100%; // 18px base font size
   color: black;
-  overflow-x: hidden;
+  overflow-x: auto;
   margin: 0;
 
   @include min(md) {
