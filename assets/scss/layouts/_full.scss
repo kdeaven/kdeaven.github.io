@@ -33,7 +33,7 @@
   main {
     @include min(md) {
       display: flex;
-      height: 100vh;
+      height: 100vh; // This controls something related to text height
       align-items: center;
       justify-content: flex-end;
     }
@@ -44,7 +44,6 @@
 
     &.content--center {
       justify-content: center;
-      max-width: 80vw;
     }
   }
 
@@ -52,7 +51,8 @@
     padding: 20px;
 
     @include min(md) {
-      max-width: 80vw;
+      max-width: 100vw;
+      max-height: 100vw;
       z-index: 10;
       position: relative;
     }
