@@ -697,7 +697,7 @@ img, video, audio, iframe, object {
   max-width: 100%; }
 
 .container {
-  max-width: 1220px;
+  max-width: 610px;
   padding: 0 20px; }
 
 /***************
@@ -1034,7 +1034,7 @@ GLOBAL STYLES
       -webkit-transform-origin: bottom left;
       transform-origin: bottom left; }
   .container {
-    max-width: 800px;
+    max-width: 1600px;
     margin-left: auto;
     margin-right: auto;
     padding: 0;
@@ -1060,7 +1060,7 @@ HEADER STYLING
       top: 50%;
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);
-      max-width: 800px; }
+      max-width: 1600px; }
     .header h1 {
       font-size: 3em;
       line-height: 1;
@@ -1146,7 +1146,7 @@ FOOTER STYLES
     float: left; }
   .footer .container {
     padding: 1rem 0;
-    max-width: 800px; }
+    max-width: 1600px; }
   /***************
 CONTACT PAGE STYLING
 ***************/
