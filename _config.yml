@@ -36,13 +36,22 @@ research:
 
 teaching:
     title: Teaching
-    overview_content: blah2
-    courses_content: blah2
-
+    overview_content: Below is a summary of the courses I have designed and taught as a primary instructor (with links to the course's syllabus). My pedagogy is deeply informed by my public philosophy experience, which you can read more about in my <a href="https://drive.google.com/file/d/1B75fyRiVOPkADPRzVjGZke3TADjqYS2A/view">teaching statement.</a>
+    courses_content:
+      - title: Introduction to Philosophy <a href="https://drive.google.com/file/d/1z3ojlQ2Zrp2FaFzwLnGMbfqgYRdBXlYX/view">(UW-Madison)</a>
+        content: A survey course that included units on theory choice, philosophy of religion, free will, personal identity, epistemology, philosophy of love, and philosophy of music.
+      - title: Reason in Communication <a href="https://drive.google.com/file/d/1l_r0YmCEdbB4O-P8HTJnFMIQauGtlrwi/view">(UW-Madison)</a>
+        content: A critical thinking course that included units on rhetoric, logic, Bayesian epistemology, and application section where we explored conspiracy theorizing, cancel culture, algorithms, and echo chambers.
+      - title: Introduction to Ethics <a href="https://drive.google.com/file/d/11ntaeQdnm-y1Q5ipjiIlKWE2z8Q8HMYm/view">(UW-Madison)</a>
+        content: A survey course exploring ethical theories and various applied ethics topics including sex ethics, gaming ethics, punishment, reparations, ethics of belief, and moral responsibility.
+      - title: Contemporary Moral Issues <a href="https://drive.google.com/file/d/1lHlYi3RKynjKKWjvFEpe7ttNQgRuSuzy/view">(UW-Madison)</a>
+        content: Philosophical analysis of select contemporary social and political issues including linguistic injustice, abortion, reparations, sex ethics, ethics of labor and leisure, and animal ethics.
+      - title: Introduction to Philosophy <a href="https://drive.google.com/file/d/1DStzAgkv4tzVJaI_n5B_dR4kYsqpzlEC/view">((New Mexico State University-Online)</a>
+        content: A survey course that included units on philosophy of religion, free will, personal identity, philosophy of love, epistemology, and meaning of life.                    
 mpp:
     title: Public Philosophy
-    the_kids_content: blah3
-    facilitator_content: blah3
+    the_kids_content:
+    facilitator_content:
     
 # General settings
 # url: http://brianmaierjr.github.com/uni
@@ -57,6 +66,6 @@ google_analytics: "UA-58263416-1" # google analytics tracking
 half_side: right
 
 # Full layout
-full_text_position: left # left, right or center
+full_text_position: center # left, right or center
 
 # other_text_position: center # left, right or center

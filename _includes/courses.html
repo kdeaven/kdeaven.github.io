@@ -1,0 +1,6 @@
+<div class="pageContent">
+    {% for course in site.teaching.courses_content %}
+    <h4 class="pageTitle">{{ course.title }}</h4>
+    <p class="pageContent">{{ course.content }}</p>
+    {% endfor %}
+</div>
