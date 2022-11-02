@@ -2,7 +2,7 @@
 title: Katie Deaven
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description: The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
 # A brief blurb about yourself
 content: I am a Ph.D. student at the University of Wisconsin-Madison. My areas of specialization are philosophy of science and philosophy of biology, with areas of concentration in epistemology, metaphysics, ethics, and public philosophy. My research focuses on the explanatory and ontological puzzles concerning evolvability, a disposition for populations to evolve in various ways. In my dissertation, I defend a metaphysically robust account of evolvability that allows evolutionary biologists and philosophers to make counterfactual claims about how a population might have evolved differently.
@@ -16,7 +16,7 @@ social:
 
 professional:
   - title: About Me
-    url: /  
+    url: /
   - title: Research
     url: /research/
   - title: Teaching
@@ -25,37 +25,37 @@ professional:
     url: /mpp/
 
 research:
-    title: Research
-    overview_content: My main research interests are in philosophy of science and philosophy of biology. My dissertation focuses on the explanatory and ontological puzzles concerning evolvability, a disposition for populations to evolve in various ways. I defend a metaphysically robust account of evolvability that allows evolutionary biologists and philosophers to make counterfactual claims about how a population might have evolved differently. My other research projects also use case studies in evolutionary biology as a way of making progress in more general disputes in philosophy of science.
-    review_content:
-      title: Relative Significance Controversies in Evolutionary Biology
-      content: Scientists engage in relative significance controversies when they investigate the importance of a cause in producing a phenomenon of interest. Some philosophers have questioned the epistemic value of engaging in these controversies. In this paper, I present a taxonomy outlining the conditions under which questions of causal importance may arise. I then show how engaging in these different kinds of controversies may inform scientists’ research. Using the historical examples of the neutralist-selectionist controversy in molecular evolution and the group selection controversy, I illustrate how these controversies help scientists form predictions about new instances of the phenomenon of interest, refine our understanding of causes of the phenomenon of interest, and improve explanations that postulate causal structures. 
-    progress_content:
-      title: Reference Class Choice and the Evolution of Senescence
-      content: Researchers working on the evolution of senescence have recently responded to classical theorists, arguing that senescence is not, in fact, inevitable. Rather than responding to these theories, I argue these contemporary scholars are merely employing a different reference class, In what follows, I explore how the problem of reference class choice arises in controversies in evolutionary biology. Then, I describe different approaches to justifying choice in reference class. Finally, I explore how the problem of reference class has hindered research on the evolution of senescence and suggest some ways in which progress may be made.
+  title: Research
+  overview_content: My main research interests are in philosophy of science and philosophy of biology. My dissertation focuses on the explanatory and ontological puzzles concerning evolvability, a disposition for populations to evolve in various ways. I defend a metaphysically robust account of evolvability that allows evolutionary biologists and philosophers to make counterfactual claims about how a population might have evolved differently. My other research projects also use case studies in evolutionary biology as a way of making progress in more general disputes in philosophy of science.
+  review_content:
+    title: Relative Significance Controversies in Evolutionary Biology
+    content: Scientists engage in relative significance controversies when they investigate the importance of a cause in producing a phenomenon of interest. Some philosophers have questioned the epistemic value of engaging in these controversies. In this paper, I present a taxonomy outlining the conditions under which questions of causal importance may arise. I then show how engaging in these different kinds of controversies may inform scientists’ research. Using the historical examples of the neutralist-selectionist controversy in molecular evolution and the group selection controversy, I illustrate how these controversies help scientists form predictions about new instances of the phenomenon of interest, refine our understanding of causes of the phenomenon of interest, and improve explanations that postulate causal structures.
+  progress_content:
+    title: Reference Class Choice and the Evolution of Senescence
+    content: Researchers working on the evolution of senescence have recently responded to classical theorists, arguing that senescence is not, in fact, inevitable. Rather than responding to these theories, I argue these contemporary scholars are merely employing a different reference class, In what follows, I explore how the problem of reference class choice arises in controversies in evolutionary biology. Then, I describe different approaches to justifying choice in reference class. Finally, I explore how the problem of reference class has hindered research on the evolution of senescence and suggest some ways in which progress may be made.
 
 teaching:
-    title: Teaching
-    overview_content: Below is a summary of the courses I have designed and taught as a primary instructor (with links to the course's syllabus). My pedagogy is deeply informed by my public philosophy experience, which you can read more about in my <a href="https://drive.google.com/file/d/1B75fyRiVOPkADPRzVjGZke3TADjqYS2A/view">teaching statement.</a>
-    courses_content:
-      - title: Introduction to Philosophy <a href="https://drive.google.com/file/d/1z3ojlQ2Zrp2FaFzwLnGMbfqgYRdBXlYX/view">(UW-Madison)</a>
-        content: A survey course that included units on theory choice, philosophy of religion, free will, personal identity, epistemology, philosophy of love, and philosophy of music.
-      - title: Reason in Communication <a href="https://drive.google.com/file/d/1l_r0YmCEdbB4O-P8HTJnFMIQauGtlrwi/view">(UW-Madison)</a>
-        content: A critical thinking course that included units on rhetoric, logic, Bayesian epistemology, and application section where we explored conspiracy theorizing, cancel culture, algorithms, and echo chambers.
-      - title: Introduction to Ethics <a href="https://drive.google.com/file/d/11ntaeQdnm-y1Q5ipjiIlKWE2z8Q8HMYm/view">(UW-Madison)</a>
-        content: A survey course exploring ethical theories and various applied ethics topics including sex ethics, gaming ethics, punishment, reparations, ethics of belief, and moral responsibility.
-      - title: Contemporary Moral Issues <a href="https://drive.google.com/file/d/1lHlYi3RKynjKKWjvFEpe7ttNQgRuSuzy/view">(UW-Madison)</a>
-        content: Philosophical analysis of select contemporary social and political issues including linguistic injustice, abortion, reparations, sex ethics, ethics of labor and leisure, and animal ethics.
-      - title: Introduction to Philosophy <a href="https://drive.google.com/file/d/1DStzAgkv4tzVJaI_n5B_dR4kYsqpzlEC/view">((New Mexico State University-Online)</a>
-        content: A survey course that included units on philosophy of religion, free will, personal identity, philosophy of love, epistemology, and meaning of life.                    
+  title: Teaching
+  overview_content: Below is a summary of the courses I have designed and taught as a primary instructor (with links to the course's syllabus). My pedagogy is deeply informed by my public philosophy experience, which you can read more about in my <a href="https://drive.google.com/file/d/1B75fyRiVOPkADPRzVjGZke3TADjqYS2A/view">teaching statement.</a>
+  courses_content:
+    - title: <a href="https://drive.google.com/file/d/1z3ojlQ2Zrp2FaFzwLnGMbfqgYRdBXlYX/view">Introduction to Philosophy - (UW-Madison)</a>
+      content: A survey course that included units on theory choice, philosophy of religion, free will, personal identity, epistemology, philosophy of love, and philosophy of music.
+    - title: <a href="https://drive.google.com/file/d/1l_r0YmCEdbB4O-P8HTJnFMIQauGtlrwi/view">Reason in Communication - (UW-Madison)</a>
+      content: A critical thinking course that included units on rhetoric, logic, Bayesian epistemology, and application section where we explored conspiracy theorizing, cancel culture, algorithms, and echo chambers.
+    - title: <a href="https://drive.google.com/file/d/11ntaeQdnm-y1Q5ipjiIlKWE2z8Q8HMYm/view">Introduction to Ethics - (UW-Madison)</a>
+      content: A survey course exploring ethical theories and various applied ethics topics including sex ethics, gaming ethics, punishment, reparations, ethics of belief, and moral responsibility.
+    - title: <a href="https://drive.google.com/file/d/1lHlYi3RKynjKKWjvFEpe7ttNQgRuSuzy/view">Contemporary Moral Issues - (UW-Madison)</a>
+      content: Philosophical analysis of select contemporary social and political issues including linguistic injustice, abortion, reparations, sex ethics, ethics of labor and leisure, and animal ethics.
+    - title: <a href="https://drive.google.com/file/d/1DStzAgkv4tzVJaI_n5B_dR4kYsqpzlEC/view">Introduction to Philosophy - ((New Mexico State University-Online)</a>
+      content: A survey course that included units on philosophy of religion, free will, personal identity, philosophy of love, epistemology, and meaning of life.
 mpp:
-    title: Public Philosophy
-    the_kids_content:
-    facilitator_content:
-    
+  title: Public Philosophy
+  the_kids_content:
+  facilitator_content:
+
 # General settings
 # url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+# baseurl: "/uni"
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
